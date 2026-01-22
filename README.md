@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://linkedin.com/in/sunder-gariya-b9b11a13a/">
-    <img src="assets/profile.jpg" width="160"/>
-  </a>
-</p>
-
 # Sunder Gariya – Resume
-
 📍 Ahmedabad, India  
 📧 ssingh0797@gmail.com  
 📞 +91 88267 40693  
